@@ -1,0 +1,22 @@
+
+body {
+   font-family: 'Times New Roman', Times, serif;
+   background-image: url('assets/tumblr_inline_mll0knNCnX1r53miq540.gif');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+p {
+    color: red;
+}
+
+#green {
+    color: green;
+    position: absolute;
+    top: 50%;
+    left: 400px;
+    width: 50px;
+    height: 500px;
+    overflow-wrap: break-word;
+}
